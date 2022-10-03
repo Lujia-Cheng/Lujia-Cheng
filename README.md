@@ -12,7 +12,7 @@
 - 📜 I'll be graduating from my Master's degree in April 2024.
 - 📫 How to reach me: email [LukeCheng@pitt.edu](mailto:LukeCheng@pitt.edu), or connect me on [LinkedIn](https://www.linkedin.com/in/luke-cheng).
 - ⚡ Fun fact: I received my Bachelor's in Chemistry and Philosophy. And worked as a Chemist in Baltimore before I switched to tech industry.
-- 🚧 Hope I didn't missed anything. But these should do for now.
+- 🚧 Hopefully I didn't miss anything. I'll come back if I did.
 
 <!--
 **Lujia-Cheng/Lujia-Cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
