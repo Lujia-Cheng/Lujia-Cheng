@@ -2,9 +2,9 @@
 
  If you reach here via my résumé and don't have mcuh time to spare, belows are the projects I highlighted in it.
 
-- ⌨️ [MorseCodeKeyboard](https://github.com/Lujia-Cheng/MorseCodeKeyboard)
-- ![Screeps favicon](https://screeps.com/icon.png) [Screep AI](https://github.com/Lujia-Cheng/ScreepsAS)
-- ⚛️ Fluid Sim (Please, it's in Mathematica. I'm not putting that on Github)
+- [MorseCodeKeyboard](https://github.com/Lujia-Cheng/MorseCodeKeyboard)
+- [Screep AI](https://github.com/Lujia-Cheng/ScreepsAS) <img src="https://screeps.com/icon.png" width="16"/> 
+- Fluid Sim
 
 **Anyways,** here's a little about me:
 
